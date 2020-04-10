@@ -9,7 +9,7 @@ namespace ShopBanThuCung
 {
     public class XuLyDuLieu
     {
-        string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\C#\asp.net\ShopBanThuCung\ShopBanThuCung\ShopBanThuCung\App_Data\ShopThuCung.mdf;Integrated Security=True";
+        string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=F:\trentruong\năm 3\ASP.net\ShopBanThuCung\ShopBanThuCung\ShopBanThuCung\App_Data\ShopThuCung.mdf;Integrated Security=True";
         SqlConnection conn;
 
         public XuLyDuLieu()

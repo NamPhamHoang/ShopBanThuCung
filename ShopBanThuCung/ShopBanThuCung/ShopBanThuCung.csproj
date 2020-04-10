@@ -162,6 +162,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Admin\" />
+    <Folder Include="css\" />
     <Folder Include="Customer\" />
     <Folder Include="HINH ANH GIONG CHO\" />
     <Folder Include="HINH ANH GIONG MEO\" />
@@ -169,6 +170,8 @@
     <Folder Include="HINH ANH NPG\" />
     <Folder Include="HINH ANH PHU KIEN\" />
     <Folder Include="HINH ANH THUC AN\" />
+    <Folder Include="js\" />
+    <Folder Include="table\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
